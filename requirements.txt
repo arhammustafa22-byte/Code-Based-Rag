@@ -1,14 +1,11 @@
 --extra-index-url https://download.pytorch.org/whl/cpu
 
-numpy==1.26.4
-torch==2.1.2+cpu
-transformers==4.39.3
-huggingface_hub==0.23.4
-tokenizers==0.15.2
-sentence-transformers==2.7.0
-faiss-cpu==1.8.0
-gradio==4.31.0
-gitpython==3.1.43
+torch
+sentence-transformers
+faiss-cpu
+gradio
+gitpython
 groq
+numpy
 requests
 python-dotenv
